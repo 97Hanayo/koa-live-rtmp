@@ -1,6 +1,6 @@
 # koa-live-rtmp
 一个很简单的直播平台<br>
-RTMP版本的（土豆熟了）<br>
+RTMP版本的（服务器端RTMP转HLS，土豆熟了）<br>
 基于node.js<br>
 第一次使用koa2<br>
 第一次使用mongodb<br>
